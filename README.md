@@ -12,7 +12,7 @@ Unlike public platforms, this chat system:
 - Delete or edit messages
 - Rename users
 - Disconnect users remotely
-- AI Assistant Panel (optional) for smart moderation or conversation support
+- AI Assistant Panel (deleted)
 - Unique user IDs assigned at login for traceability
 🧑‍💼 Who Is It For?
 - Developers who want a lightweight, hackable chat system
@@ -20,6 +20,5 @@ Unlike public platforms, this chat system:
 - Small teams needing internal messaging without external dependencies
 - Privacy-conscious users who want to avoid cloud-based platforms
 🚀 Why It Stands Out
-- No external dependencies (except optional OpenAI integration)
 - Fully written in Python — easy to audit, extend, and deploy
-- Modular design: server, client, admin, and AI panels are separate but connected
+- Modular design: server, client, admin
